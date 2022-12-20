@@ -1,0 +1,179 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    padding-top: 30px;
+    font-size: 90px;
+    font-family: Tahoma;
+    line-height: 2;
+    margin: 50px auto 0 auto;
+    color: #ff9d00;
+}
+
+h2 {
+    font-family: Tahoma;
+    font-weight: normal;
+    color: #ff9d00;
+}
+
+h3 {
+    font-family: Tahoma;
+    color: #ff9d00;
+}
+
+hr {
+    background-color: white;
+    border-color: #a1a2a2;
+    border-width: 10px;
+    border-style:dotted none none;
+    padding-top: 20 px;
+    width: 10%;
+}
+
+p {
+    font-family: Tahoma;
+}
+
+a {
+    font-family: Tahoma;
+    color: #ffd48f;
+}
+
+.btn {
+    background: #ff9d00;
+    background-image: -webkit-linear-gradient(top, #ff9d00, #ff9d00);
+    background-image: -moz-linear-gradient(top, #ff9d00, #ff9d00);
+    background-image: -ms-linear-gradient(top, #ff9d00, #ff9d00);
+    background-image: -o-linear-gradient(top, #ff9d00, #ff9d00);
+    background-image: linear-gradient(to bottom, #ff9d00, #ff9d00);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+  }
+
+.btn:hover {
+    background: #f0b05d;
+    background-image: -webkit-linear-gradient(top, #ff9d00, #ff9d00);
+    background-image: -moz-linear-gradient(top, #ff9d00, #ff9d00);
+    background-image: -ms-linear-gradient(top, #ff9d00, #ff9d00);
+    background-image: -o-linear-gradient(top, #ff9d00, #ff9d00);
+    background-image: linear-gradient(to bottom, #ff9d00, #ff9d00);
+    text-decoration: none;
+  }
+
+.ima {
+    font-size: 2.5rem;
+}
+
+.profile {
+    padding-bottom: 30px;
+}
+
+.profilepic {
+    border-radius: 100%;
+    padding-top: 10px;
+}
+
+.skills {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.contact-me {
+    padding-top: 30px;
+}
+
+.copyr {
+    color: white;
+}
+
+.webdevskill {
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+}
+
+.gamedevskill {
+    width: 25%;
+    float: right;
+    padding-right: 30px;
+}
+
+.top-container {
+    background-color: rgb(220, 186, 142);
+    padding: 20px;
+    font-family: Tahoma;
+}
+
+.middle-container {
+    top: 25px;
+    padding-bottom: 30px;
+}
+
+.bottom-container {
+    background-color: rgb(220, 186, 142);
+    padding-top: 30px;
+}
+
+.footer-link {
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: white;
+}
+
+.web {
+    text-decoration: underline;
+}
+
+.game {
+    text-decoration: underline;
+}
+
+.cloud {
+    position: relative;
+    left: 200px;
+    padding-top: 100px;
+}
+
+.cloud2 {
+    position: absolute;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+}
+
+.hello-text {
+    color: #40514E;
+    width: 30%;
+    margin: auto;
+}
+
+.getintouch {
+    padding-bottom: 10px;
+}
+
+.feelfree {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.youcanalso {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
